@@ -5,7 +5,7 @@
     @include('admin.adminCss ')
 
     <style>
-    .table-container {
+    .table-container 
       overflow-x: auto;
       max-height: 700px;
       overflow-y: auto;
